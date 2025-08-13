@@ -233,9 +233,19 @@ def index():
                                         "💼 Mi LinkedIn",
                                         color_scheme="blue",
                                         size="3",
-                                        width="200px"
+                                        width="150px"
                                     ),
                                     href="https://www.linkedin.com/in/juan-david-lopez-hernandez-2264b1261/",
+                                    is_external=True
+                                ),
+                                rx.link(
+                                    rx.button(
+                                        "@ Mi Instagram",
+                                        color_scheme="red",
+                                        size="3",
+                                        widht="150"
+                                    ),
+                                    href="https://www.instagram.com/juan.da312/",
                                     is_external=True
                                 ),
                                 rx.link(
@@ -243,7 +253,7 @@ def index():
                                         "📂 Mis Proyectos",
                                         color_scheme="purple",
                                         size="3",
-                                        width="200px"
+                                        width="150px"
                                     ),
                                     href="https://github.com/juan-david-lopez",
                                     is_external=True
