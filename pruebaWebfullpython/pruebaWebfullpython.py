@@ -44,7 +44,7 @@ def index():
                 ),
                 
                 rx.text(
-                    "Universidad del Quindío • 20 años",
+                    "Universidad del Quindío • 22 años",
                     size="2",
                     color="gray.600",
                     text_align="center"
@@ -146,7 +146,7 @@ def index():
                                 rx.link(
                                     rx.button(
                                         "💼 Certificado backend",
-                                        color_scheme="green",
+                                        color_scheme="gray",
                                         size="4",
                                         width="200px"
                                     ),
@@ -232,7 +232,7 @@ def index():
                                     rx.button(
                                         "💼 Mi LinkedIn",
                                         color_scheme="blue",
-                                        size="3",
+                                        size="4",
                                         width="150px"
                                     ),
                                     href="https://www.linkedin.com/in/juan-david-lopez-hernandez-2264b1261/",
@@ -242,7 +242,7 @@ def index():
                                     rx.button(
                                         "@ Mi Instagram",
                                         color_scheme="red",
-                                        size="3",
+                                        size="4",
                                         widht="150"
                                     ),
                                     href="https://www.instagram.com/juan.da312/",
@@ -252,7 +252,7 @@ def index():
                                     rx.button(
                                         "📂 Mis Proyectos",
                                         color_scheme="purple",
-                                        size="3",
+                                        size="4",
                                         width="150px"
                                     ),
                                     href="https://github.com/juan-david-lopez",
