@@ -66,7 +66,7 @@ def index():
                         margin_bottom="15px"
                     ),
                     rx.text(
-                        "¡Hola! Soy Juan David López, tengo 20 años y soy estudiante de ingeniería de sistemas y computación en la Universidad del Quindío. Actualmente estoy aprendiendo a programar con Python, tengo experiencia en Java back-end y bases de datos no relacionales. He creado esta aplicación web utilizando Reflex para mostrar mis habilidades.",
+                        "¡Hola! Soy Juan David López, tengo 22 años y soy estudiante de ingeniería de sistemas y computación en la Universidad del Quindío. Actualmente estoy aprendiendo a programar con Python, tengo experiencia en Java back-end y bases de datos no relacionales. He creado esta aplicación web utilizando Reflex para mostrar mis habilidades.",
                         size="3",
                         line_height="1.6",
                         color="gray.700"
